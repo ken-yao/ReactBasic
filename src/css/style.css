@@ -1,0 +1,18 @@
+.container{margin:0 auto; min-width: 800px; margin:20px; padding:20px; border:1px solid #eee; overflow: hidden;}
+
+
+
+section{margin:1rem 0;}
+section h2{margin:0; font-size: 1.5rem; line-height: 1.5rem;}
+
+
+
+.fontColor{color:floralwhite;padding:20px;}
+
+.dodgerblue{background-color: dodgerblue; }
+.darkcyan{background-color: darkcyan; }
+.blueviolet{background-color: blueviolet; }
+.firebrick{background-color: firebrick; }
+.tomato{background-color: tomato; }
+
+
